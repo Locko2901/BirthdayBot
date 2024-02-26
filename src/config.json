@@ -1,0 +1,7 @@
+{
+  "token": "your_bot_token",
+  "clientId": "your_bots_application_id",
+  "guildId": "your_server_id",
+  "userId": "your_user_id"
+}
+
